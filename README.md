@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. [Nemo enim](instagram.com/duckwareteam/) ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
 
 
-![This is an alt text.](/image/sample.webp "This is a sample image")
+![This is an alt text.](/images/example.jpg "This is a sample image")
 
 sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet:
 
